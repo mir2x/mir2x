@@ -27,7 +27,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ### **Machine Learning & NLP**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat&logo=python)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
