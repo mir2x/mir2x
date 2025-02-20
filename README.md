@@ -21,6 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
 ### **Programming Languages**
+![C](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
