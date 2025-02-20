@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mir Tanim Ahmed 👋
+💻 Backend Developer | 🚀 Node.js | 🛠️ NestJS | 🔥 TypeScript | ⚡ Express.js
 
-<!--
-**mir2x/mir2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Working at SparkTech  
+🔹 Building scalable backend solutions  
+🔹 Learning Microservices Architecture  
 
-Here are some ideas to get you started:
+📫 Reach me at [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+🛠️ Technologies:  
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
