@@ -37,8 +37,3 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
 
----
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
