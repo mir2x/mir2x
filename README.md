@@ -28,7 +28,8 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)
 
 #### **Database**
-![MongoDB](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![MsSQL](https://img.shields.io/badge/-MsSQL-333?style=flat&logo=mssql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
