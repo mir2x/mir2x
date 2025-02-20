@@ -13,11 +13,11 @@
 ## 🛠️ Technologies & Skills
 
 ### **Programming Languages**
-![TypeScript](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+!(https://img.shields.io/badge/-C-333?style=flat&logo=c)
+!(https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+!(https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png)
+!(https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![(https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
