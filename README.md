@@ -1,8 +1,7 @@
 # Hi, I'm Mir Tanim Ahmed 👋
 💻 Backend Developer | 📱 App Developer | 🤖 Machine Learning | 🧠 NLP 
 
-🔹 Working at SparkTech as Backend Developer 
-
+🔹 Working at SparkTech as Backend Developer
 🔹 Building scalable backend solutions  
 🔹 Exploring Machine Learning and NLP  
 🔹 Developing Full-Stack Mobile Applications  
