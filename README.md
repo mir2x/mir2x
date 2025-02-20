@@ -1,10 +1,11 @@
-# Hi, I'm Mir Tanim Ahmed 👋
-💻 Backend Developer | 📱 App Developer | 🤖 Machine Learning | 🧠 NLP 
+# Hi, I'm Hasibul Hasan Shanto 👋
+💻 Backend Developer | 🚀 Node.js | 🛠️ NestJS | 🔥 TypeScript | ⚡ Express.js  
+📱 App Developer | 🤖 Machine Learning | 🧠 NLP | ☕ Java | 🐍 Python  
 
-🔹 Working at SparkTech as Backend Developer   
+🔹 Working at SparkTech  
 🔹 Building scalable backend solutions  
 🔹 Exploring Machine Learning and NLP  
-🔹 Developing Full-Stack Mobile Applications  
+🔹 Developing Full-Stack Web & Mobile Applications  
 🔹 Learning Microservices Architecture  
 
 📫 Reach me at [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
@@ -12,27 +13,32 @@
 ---
 ## 🛠️ Technologies & Skills
 
-### **Programming Languages**
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" alt="Android" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="24" height="24">  
-
 ### **Backend Development**
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="24" height="24">  
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+
+### **Programming Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ### **Machine Learning & NLP**
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/PyTorch_logo.png" alt="PyTorch" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/OpenAI_Logo.svg" alt="OpenAI" width="24" height="24">  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat&logo=python)
+![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 
 ### **App Development**
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="24" height="24">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="24" height="24">  
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
+![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
+
+---
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
