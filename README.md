@@ -15,7 +15,7 @@
 ### **Programming Languages**
 ![TypeScript](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Java]([https://img.shields.io/badge/-Java-333?style=flat&logo=java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png))
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
