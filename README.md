@@ -12,6 +12,13 @@
 ---
 ## 🛠️ Technologies & Skills
 
+### **Programming Languages**
+![TypeScript](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
@@ -19,11 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
-### **Programming Languages**
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
 
 ### **Machine Learning & NLP**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
