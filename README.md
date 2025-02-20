@@ -1,11 +1,10 @@
 # Hi, I'm Mir Tanim Ahmed 👋
-💻 Backend Developer | 🚀 Node.js | 🛠️ NestJS | 🔥 TypeScript | ⚡ Express.js  
-📱 App Developer | 🤖 Machine Learning | 🧠 NLP | ☕ Java | 🐍 Python  
+💻 Backend Developer | 📱 App Developer | 🤖 Machine Learning | 🧠 NLP 
 
-🔹 Working at SparkTech  
+🔹 Working at SparkTech as Backend Developer 
 🔹 Building scalable backend solutions  
 🔹 Exploring Machine Learning and NLP  
-🔹 Developing Full-Stack Web & Mobile Applications  
+🔹 Developing Full-Stack Mobile Applications  
 🔹 Learning Microservices Architecture  
 
 📫 Reach me at [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
