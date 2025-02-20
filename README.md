@@ -1,17 +1,25 @@
 # Hi, I'm Mir Tanim Ahmed 👋
-💻 Backend Developer | 🚀 Node.js | 🛠️ NestJS | 🔥 TypeScript | ⚡ Express.js  
-📱 App Developer | 🤖 Machine Learning | 🧠 NLP | ☕ Java | 🐍 Python  
 
-🔹 Working at SparkTech  
+💻 Backend Developer | 📱 App Developer | 🤖 Machine Learning | 🧠 NLP
+
+🔹 Working at SparkTech as Backendend Developer
 🔹 Building scalable backend solutions  
 🔹 Exploring Machine Learning and NLP  
-🔹 Developing Full-Stack Web & Mobile Applications  
+🔹 Developing Full-Stack Mobile Applications  
 🔹 Learning Microservices Architecture  
 
 📫 Reach me at [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 ## 🛠️ Technologies & Skills
+
+### **Programming Languages**
+![C](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Java] ☕
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
@@ -20,12 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
-### **Programming Languages**
-![C](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ### **Machine Learning & NLP**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
