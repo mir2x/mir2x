@@ -14,12 +14,14 @@
 ## 🛠️ Technologies & Skills
 
 ### **Programming Languages**
+![C++](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+![C++](https://img.shields.io/badge/-Dart-333?style=flat&logo=dart)
 
 
 ### **Libraries & Frameworks**
