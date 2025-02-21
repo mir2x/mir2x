@@ -8,7 +8,7 @@
 🔹 Developing Full-Stack Mobile Applications  
 🔹 Learning Microservices Architecture  
 
-📫 Reach me at [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+📫 Reach me at [Email](mailto:mir.tanim.ahmed98@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 ## 🛠️ Technologies & Skills
