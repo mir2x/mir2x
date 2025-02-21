@@ -26,6 +26,7 @@
 #### **Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+![Express](https://img.shields.io/badge/-Socket-333?style=flat&logo=socket)
 ![Express](https://img.shields.io/badge/-Stripe-333?style=flat&logo=stripe)
 
 
