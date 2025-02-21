@@ -52,4 +52,4 @@
 #### **DevOps**
 ![Git](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Github%20Actions-333?style=flat&logo=github-actions)
-
+![Git](https://img.shields.io/badge/-DigitalOcean-333?style=flat&logo=DigitalOcean)
