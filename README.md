@@ -28,7 +28,7 @@
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Express](https://img.shields.io/badge/-Socket-333?style=flat&logo=socket)
 ![Express](https://img.shields.io/badge/-Stripe-333?style=flat&logo=stripe)
-![JWT](https://img.shields.io/badge/-json%20web%20tokens-333?style=flat&logo=JWT)
+![JWT](https://img.shields.io/badge/-JWT-333?style=flat&logo=json-web-tokens)
 
 
 #### **Database**
