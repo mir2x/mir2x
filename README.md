@@ -42,7 +42,7 @@
 
 #### **Machine Learning & NLP**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![Panda](https://img.shields.io/badge/-Panda-333?style=flat&logo=panda)
+![Panda](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 
 #### **App Development**
