@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
 
 
 ### **Libraries & Frameworks**
