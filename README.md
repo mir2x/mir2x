@@ -2,7 +2,7 @@
 
 💻 Backend Developer | 📱 App Developer | 🤖 Machine Learning | 🧠 NLP
 
-🔹 Working at SparkTech as Backendend Developer
+🔹 Working at SparkTech as Backendend Developer   
 🔹 Building scalable backend solutions  
 🔹 Exploring Machine Learning and NLP  
 🔹 Developing Full-Stack Mobile Applications  
