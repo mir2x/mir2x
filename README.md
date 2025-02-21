@@ -48,3 +48,6 @@
 #### **Version Control**
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
+#### **DevOps
+![JWT](https://img.shields.io/badge/-json%20web%20tokens-333?style=flat&logo=json-web-tokens)
+
