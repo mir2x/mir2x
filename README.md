@@ -25,7 +25,7 @@
 #### **Backend Development**
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
-![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)
+
 
 #### **Database**
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
@@ -34,13 +34,11 @@
 
 
 ### **Machine Learning & NLP**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat&logo=python)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 
 ### **App Development**
-![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
 
