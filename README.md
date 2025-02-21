@@ -33,6 +33,7 @@
 
 #### **Database**
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333?style=flat&logo=microsoft%20sql%20server)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
