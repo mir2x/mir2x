@@ -45,3 +45,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
 
+#### **Version Controle**
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
