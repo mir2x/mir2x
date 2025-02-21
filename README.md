@@ -33,12 +33,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
 
-### **Machine Learning & NLP**
+#### **Machine Learning & NLP**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 ![NLTK](https://img.shields.io/badge/-NLTK-333?style=flat&logo=python)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai)
 
-### **App Development**
+#### **App Development**
 ![Flutter](https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
 
