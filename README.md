@@ -2,7 +2,7 @@
 
 💻 Backend Developer | 📱 App Developer | 🤖 Machine Learning | 🧠 NLP
 
-🔹 Working at RentYard as Backend Developer\n
+🔹 Working at RentYard as Backend Developer
 🔹 Worked at SparkTech as Backendend Developer and AI Developer
 🔹 Building scalable backend solutions  
 🔹 Exploring Machine Learning and NLP  
