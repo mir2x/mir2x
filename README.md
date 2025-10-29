@@ -71,3 +71,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-333?style=flat&logo=github-actions)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333?style=flat&logo=DigitalOcean)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![EC2](https://img.shields.io/badge/-EC2-333?style=flat&logo=amazon-ec2)
+![S3](https://img.shields.io/badge/-S3-333?style=flat&logo=amazon-s3)
+![Lambda](https://img.shields.io/badge/-Lambda-333?style=flat&logo=aws-lambda)
+![AppSync](https://img.shields.io/badge/-AppSync-333?style=flat&logo=aws-appsync)
