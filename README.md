@@ -3,10 +3,15 @@
 💻 Full-Stack Developer | 🤖 Machine Learning & NLP Enthusiast
 
 🔹 Worked at RentYard as Backend Developer
+
 🔹 Worked at SparkTech as Backend Developer and AI Developer
+
 🔹 Building scalable full-stack solutions with React, Next.js, and Node.js
+
 🔹 Exploring Machine Learning, NLP, Chatbots, and RAG architectures
+
 🔹 Developing Full-Stack Mobile Applications with Flutter
+
 🔹 Learning Microservices Architecture
 
 📫 Reach me at [Email](mailto:mir.tanim.ahmed1@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
