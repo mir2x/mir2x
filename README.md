@@ -4,7 +4,7 @@
 
 🔹 Worked at RentYard as Backend Developer
 
-🔹 Worked at SparkTech as Backend Developer and AI Developer
+🔹 Worked at SparkTech as Backend and AI Developer
 
 🔹 Building scalable full-stack solutions with React, Next.js, and Node.js
 
